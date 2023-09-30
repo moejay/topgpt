@@ -1,0 +1,6 @@
+.env
+OAI_CONFIG_LIST
+test.wav
+venv
+.cache
+coding/
